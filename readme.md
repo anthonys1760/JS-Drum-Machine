@@ -1,5 +1,7 @@
 # JavaScript Drum Kit
 
+![Responsive Image](responsive.png)
+
 [View Live Site](https://anthonys1760.github.io/JS-Drum-Machine/)
 
 This is a Drum kit created with HTML, CSS and JavaScript. 
